@@ -1,0 +1,9 @@
+button {
+  background: red;
+  padding: 20px;
+}
+
+.app-buttons-box {
+  display: flex;
+  gap: 20px;
+}
