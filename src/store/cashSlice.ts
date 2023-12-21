@@ -1,11 +1,11 @@
-import { InitialType } from "@/types";
+import { CashStateType } from "@/types";
 import { Action } from "redux"
 
 interface AddAction extends Action {
   payload: number;
 }
 
-const initialState: InitialType = {
+const initialState: CashStateType = {
   cash: 5
 }
 

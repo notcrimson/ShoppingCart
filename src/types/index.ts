@@ -1,4 +1,4 @@
-export interface InitialType {
+export interface CashStateType {
   cash: number
 }
 

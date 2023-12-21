@@ -1,3 +1,7 @@
+body {
+  margin: 0px;
+}
+
 button {
   background: red;
   padding: 20px;

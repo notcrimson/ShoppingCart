@@ -1,0 +1,12 @@
+.storepage-padding {
+  padding: 60px 60px;
+}
+.storepage-list-box {
+  border: 1px solid #000;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
